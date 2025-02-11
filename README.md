@@ -17,7 +17,6 @@ Figura 1
 
 1) Considerando a GPIO 22, defina a sua frequência de PWM para,
 aproximadamente, 50Hz – período de 20ms. 
-![image](https://github.com/user-attachments/assets/a2beef9f-0a31-474a-85dc-5e02712047a5)
 2) Defina o ciclo ativo do módulo PWM para 2.400µs
 (microssegundos) – Ciclo de Trabalho (Duty Cycle) de 0,12%. isto
 ajustará a flange (braço) do servomotor para a posição de,
