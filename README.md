@@ -41,4 +41,8 @@ com um atraso de ajuste de 10ms.
 um experimento com o código deste exercício utilizando o LED
 RGB – GPIO 12. O que o discente observou no comportamento
 da iluminação do referido LED?
-O LED começa com brilho moderado e vai caindo próximo de apagar. Depois fica oscilando.
+
+O LED começa com brilho alto/moderado na posição 180º, onde o Duty Cycle é maior e consequentemente a tensão tende a ser maior. Alterna para a posção 90º depois de 5s e tem sua luminosidade reduzida. Na posição 0º, Ele tem a intensidade mais baixa. Porém, quando entra no loop de alternância entre 0 e 180, oscila mais lentamente, mas é possivel ver o efeito fading.  
+Link Vídeo:
+
+https://drive.google.com/file/d/1zgLPiVS4UmYZe42XP-1zWleuptvLqVTd/view?usp=sharing
